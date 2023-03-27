@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Faizan Anwar (@FaizanFSDEV)
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently enchancing my skills on ReactJS, ExpressJS, NodeJS, JavaScript, BootStrap, JQuery, CSS, HTML
-- 📫 How to reach me faizanunique5@gmail.com (8770071985)
 
 <!---
 FaizanFSDEV/FaizanFSDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
