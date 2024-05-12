@@ -6,14 +6,14 @@
 
 **🎯 Key Achievements:**
 
-✦ Achieved a 60% reduction in processing time through server-side datatable migration.
-✦ Enhanced customer satisfaction by 80% with real-time updates facilitated by Action Cable integration.
-✦ Resolved critical background job issues by implementing efficient raw SQL queries, eliminating execution failures resulting from time-consuming Active Record data retrieval.
-✦ Successfully managed the migration of Ruby from version 2.5 to 3.2.2 and Rails from 6.1 to 7, ensuring uninterrupted functionality.
-✦ Implemented a secure mobile number-based login system using Devise, with seamless OTP verification through Twilio API integration.
-✦ Enabled direct video uploads to designated YouTube channels through employee interfaces via integration with the YouTube API.
-✦ Developed a multi-step CSV/XLS uploader using the ROO gem, optimizing data processing with features including module selection, record mapping, error identification, and asynchronous data creation via background jobs.
+- Achieved a 60% reduction in processing time through server-side datatable migration.
+- Enhanced customer satisfaction by 80% with real-time updates facilitated by Action Cable integration.
+- Resolved critical background job issues by implementing efficient raw SQL queries, eliminating execution failures resulting from time-consuming Active Record data retrieval.
+- Successfully managed the migration of Ruby from version 2.5 to 3.2.2 and Rails from 6.1 to 7, ensuring uninterrupted functionality.
+- Implemented a secure mobile number-based login system using Devise, with seamless OTP verification through Twilio API integration.
+- Enabled direct video uploads to designated YouTube channels through employee interfaces via integration with the YouTube API.
+- Developed a multi-step CSV/XLS uploader using the ROO gem, optimizing data processing with features including module selection, record mapping, error identification, and asynchronous data creation via background jobs.
 
 **🌱 Passionate About:** Creating robust and scalable applications that solve real-world problems. I'm continually refining my skills and keeping abreast of the latest in tech innovations.
 
-🔗 Connect with me on GitHub @thefaizananwar for collaborations or to check out my latest projects.
+🔗  [Connect](https://www.linkedin.com/in/thefaizananwar/) with me on LinkedIn for collaborations or to check out my latest projects.
