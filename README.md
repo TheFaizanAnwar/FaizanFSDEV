@@ -14,7 +14,7 @@
 - Enabled direct video uploads to designated YouTube channels through employee interfaces via integration with the YouTube API.
 - Developed a multi-step CSV/XLS uploader using the ROO gem, optimizing data processing with features including module selection, record mapping, error identification, and asynchronous data creation via background jobs.
 
-<a href="https://www.learnenough.com/certificates/faizan_anwar"><img src="https://www.learnenough.com/certificates/faizan_anwar/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+<a href="https://www.learnenough.com/certificates/faizan_anwar"><img src="https://www.learnenough.com/certificates/faizan_anwar/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/faizan_anwar"><img src="https://www.learnenough.com/certificates/faizan_anwar/python-tutorial.svg" alt="Certificate of Completion for Learn Enough Python"></a>
 
 **🌱 Passionate About:** Creating robust and scalable applications that solve real-world problems. I'm continually refining my skills and keeping abreast of the latest in tech innovations.
 
